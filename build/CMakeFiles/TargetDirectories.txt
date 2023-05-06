@@ -1,0 +1,3 @@
+/mnt/e/codespace/tweaker/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/codespace/tweaker/build/CMakeFiles/tweaker.dir
+/mnt/e/codespace/tweaker/build/CMakeFiles/edit_cache.dir

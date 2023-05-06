@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tweaker.dir/crossroads.cpp.o CMakeFiles/tweaker.dir/main.cpp.o CMakeFiles/tweaker.dir/read_file.cpp.o  -o tweaker -Wl,-rpath,/home/mzy/anaconda3/envs/rlspace/lib /home/mzy/anaconda3/envs/rlspace/lib/libpython3.8.so 
